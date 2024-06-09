@@ -25,6 +25,17 @@ In order to establish which aircrafts are the lowest risk for the company to beg
 - Injury Severity by Broad Phase of Flight
 - Analysis of risks associated with Purpose of Flight
 
+## Findings
+
+The analysis yielded meaningful insights as can be seen from the following visualizations:
+
+![Survivability](survivability.png)
+
+![Time Series](time_series.png)
+
+![Aircaft vs incident](Aircraft_vs_incident.png)
+
+
 ## Tableau Interactive Dashboard
 
 (https://public.tableau.com/views/AviationAccidents_17178781861510/AviationAccidentsDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
